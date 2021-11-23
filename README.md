@@ -2,8 +2,8 @@
 
 ### Let us now take a quick dive into basic layout of webpages.
 
-We will quickly look into; layouts
- Markup : * Comments
-          * Basic Layout of Webpage
-          * Creating columns
+We will quickly look into;
+1. *Comments*
+2. *Basic Layout of Webpage*
+3. *Creating columns*
 
